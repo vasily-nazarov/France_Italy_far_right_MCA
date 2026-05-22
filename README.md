@@ -1,9 +1,9 @@
 # France_Italy_far_right_MCA
-A research project that our group did for the course of "Enquete Sociologique" during the third year of bachelor's of sociology at Sorbonne University. The title of the project is "We Just Want Order - Political and Social Imaginaries of Far-Right Voters in Italy and France", unfortunately, the text is written in French, but I've also added a research project of this project in english just in case. 
+A research project that our group did for the course of "Enquete Sociologique" during the third year of bachelor's of sociology at Sorbonne University. The title of the project is "We Just Want Order - Political and Social Imaginaries of Far-Right Voters in Italy and France", unfortunately, the text is written in French, but I've also added a research project of this project in english just in case(but it doesn't have results since it's just a project). 
 
 Data: European Social Survey wave 11
 
-Contents: Code_for_inter.R - the main code, there is also a text of the projects, visualisations and the english version of the research project
+Contents: Code_for_inter.R - the main code, there is also a text of the projects, visualisations and the research project in english
 
 Personal contribution: I wrote all of the code, made all of the visualisations and wrote: methodology part, supplementary variables analysis, limites and future of the research. Also I contributed to inventing the hypotheses and the MCA result part. 
 
